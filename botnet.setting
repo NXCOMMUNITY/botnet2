@@ -15,7 +15,7 @@ ansi_clear = '\033[2J\033[H'
 
 banner = '''
                     *********************************
-                    *         PYbot by wodx         *
+                    *         PYbot by papa         *
                     *    ready to launch attacks    *
                     *********************************
         '''
